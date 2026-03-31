@@ -123,7 +123,7 @@
 <body>
   <header>
     <div class="container">
-      <h1>West Albany Handyman</h1>
+      <h1>Handyman Services</h1>
       <p class="subtitle">
         Reliable help for repairs, installs, light renovation work, and everyday home projects in West Albany and nearby areas.
       </p>
@@ -172,14 +172,14 @@
     <section>
       <div class="card">
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:westalbanyhandman@gmail.com" style="color: var(--accent);">westalbanyhandman@gmail.com</a></p>
+        <p>Email: <a href="mailto:albanydrywall@gmail.com" style="color: var(--accent);">albanydrywall@gmail.com</a></p>
         <p>Serving West Albany and nearby communities</p>
       </div>
     </section>
   </main>
 
   <footer>
-    West Albany Handyman • Simple, dependable home repair help.
+    Albany Drywall • Simple, dependable home repair help.
   </footer>
 </body>
 </html>
